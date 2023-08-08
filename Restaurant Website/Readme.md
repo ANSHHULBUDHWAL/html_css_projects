@@ -1,2 +1,2 @@
 # Project Title
-## A Restaurant Website
+### A Restaurant Website
